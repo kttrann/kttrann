@@ -1,6 +1,6 @@
 ## **Hello! 👋**
 
-### **About Me**
+### **Glad to see you here!**
 
 I am Kevin Tran. I am a second-year undergraduate at The Ohio State University, pursuing Bachelor's degree in Aerospace Engineering. 🎓
 
