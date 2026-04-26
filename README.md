@@ -1,5 +1,12 @@
-## Hi, I'm Kevin 👋
+## **Hello! 👋**
 
+### **About Me**
+
+I am Kevin Tran. I am a second-year undergraduate at The Ohio State University, pursuing Bachelor's degree in Aerospace Engineering. 🎓
+
+I am passionate about design and development of aircrafts and spacecrafts. 🚀
+
+I am learning new languages, proficient in C++, MatLab, and Simulink 👨‍💻.
 <!--
 **kttrann/kttrann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
